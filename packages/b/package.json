@@ -1,0 +1,13 @@
+{
+  "name": "@ts2307-repro/b",
+  "main": "src/index.ts",
+  "dependencies": {
+    "@ts2307-repro/a": "workspace:*"
+  },
+  "devDependencies": {
+    "@ts2307-repro/tsconfig": "workspace:*"
+  },
+  "scripts": {
+    "tsc": "tsc --build"
+  }
+}

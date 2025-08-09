@@ -1,0 +1,7 @@
+{
+  "name": "ts2307-repro",
+  "packageManager": "pnpm@10.13.1",
+  "devDependencies": {
+    "typescript": "5.8.3"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "name": "@ts2307-repro/tsconfig",
+  "private": true,
+  "type": "module"
+}
