@@ -54,13 +54,9 @@ All packages extend a shared config at `tools/tsconfig/tsconfig.json` with (abbr
 {
   "compilerOptions": {
     "composite": true,
-    "esModuleInterop": true,
-    "allowSyntheticDefaultImports": false,
     "isolatedModules": true,
-    "module": "ESNext",
     "moduleResolution": "Bundler",
-    "strict": true,
-    "verbatimModuleSyntax": true
+    "strict": true
   }
 }
 ```
