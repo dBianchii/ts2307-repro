@@ -8,6 +8,6 @@
     "@ts2307-repro/tsconfig": "workspace:*"
   },
   "scripts": {
-    "tsc": "tsc --build"
+    "typecheck": "tsc --build"
   }
 }
